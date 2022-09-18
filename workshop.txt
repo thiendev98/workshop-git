@@ -1,2 +1,4 @@
 Hello workshop!
+Date: Sun, 18 September 2022
+Work: $Copyright
 
